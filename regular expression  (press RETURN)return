@@ -1,0 +1,44 @@
+[33mcommit 90990b291619e71bfe1d1dc5417db1dc45fd7409[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <mma0782@yandex.ru>
+Date:   Tue Jan 24 18:29:01 2023 +0400
+
+    Добавлена строчка
+
+[33mcommit df80ce3c50cd23ec8b5a07222e7864adb8a24fdf[m
+Merge: 1940bdf b245f0e
+Author: unknown <mma0782@yandex.ru>
+Date:   Tue Jan 24 18:14:58 2023 +0400
+
+    Merge branch 'main' of https://github.com/MaksiMA82/practice
+
+[33mcommit 1940bdf3092059bab30024b653f838fdf5d55f30[m
+Author: unknown <mma0782@yandex.ru>
+Date:   Tue Jan 24 17:58:29 2023 +0400
+
+    A new file is added
+
+[33mcommit 4e95314d18d094b9a62c8fc4c5a8b45766e4ba12[m
+Author: unknown <mma0782@yandex.ru>
+Date:   Fri Jan 13 17:45:29 2023 +0400
+
+    added a line
+
+[33mcommit 1bb98bb36306c016ffb46b6aa28ad6fae2769c20[m
+Author: unknown <mma0782@yandex.ru>
+Date:   Fri Jan 13 17:20:02 2023 +0400
+
+    A new file is added
+
+[33mcommit b245f0e688a159076bb3af1ab70784ad455af487[m
+Author: Maksim <120786702+MaksiMA82@users.noreply.github.com>
+Date:   Fri Jan 13 17:18:20 2023 +0400
+
+    Delete QA resume Манохин Максим.doc
+    
+    large file
+
+[33mcommit bd2fb1b0ebb13f656d90582ada83ef88b03631e0[m
+Author: Maksim <120786702+MaksiMA82@users.noreply.github.com>
+Date:   Fri Dec 23 11:52:39 2022 +0400
+
+    Initial commit
